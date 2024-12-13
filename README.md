@@ -1,8 +1,8 @@
-# Pi Explorer
+# kOBO Explorer
 
-A block explorer for the [Pi Blockchain](https://minepi.com) based on Chris Hatch' repository.
+A block explorer for the [KOBO Blockchain](https://mineKOBO.com) based on Chris Hatch' repository.
 
-To use it, visit the Pi App [pi://blockchain.pi](pi://blockchain.pi) on the [Pi Browser](https://developers.minepi.com) or visit https://minepi.com/blockexplorer
+To use it, visit the KOBO App [KOBO://blockchain.KOBO](KOBO://blockchain.KOBO) on the [KOBO:Browser](https://developers.mineKOBO.com) or visit https://mineKOBO.com/blockexplorer
 
 
 ## Exploring Private / Local Development Networks<a name="private-networks"></a>
